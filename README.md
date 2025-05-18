@@ -1,6 +1,6 @@
 `Capitan.exe —⠀❐⠀⤬`
 
- _** About Me:**_
+ # About Me:
  / • Content Creator
  / • WishMc Media Editor
  / • probably working
